@@ -110,7 +110,7 @@
 |---------|-------------|------|
 | 🎓 Student Performance Predictor | Predict student performance using ML | Python, FastAPI, React | [Repository](mmmmm) |
 | 🏡 House Price Prediction | Predict housing prices | Scikit-Learn | [Repository](https://github.com/Prakash-Kumar-Badaila/House_prediction_system) |
-| 📩 SMS Spam Detection | NLP Spam Classifier | NLTK, TF-IDF | [Repository](https://github.com/Prakash-Kumar-Badaila/Email_spam_detection) |
+| 📩 SMS Spam Detection | NLP Spam Classifier | NLTK, TF-IDF | [![GitHub](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prakash-Kumar-Badaila/Email_spam_detection) |
 
 
 ---
