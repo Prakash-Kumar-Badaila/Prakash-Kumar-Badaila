@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Prakash Kumar Badaila
+# Hi , I'm Prakash Kumar Badaila
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Building+Practical+ML+Projects;Python+%7C+FastAPI+%7C+React;Always+Learning+Something+New" />
 
@@ -8,11 +8,11 @@
 ### 🤖 Aspiring AI Engineer
 
 <p>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/prakash-badaila-007b55351/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="badailap928@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -39,8 +39,7 @@
 
 - FastAPI
 - Scikit-Learn
-- Deep Learning
-- MLOps
+-Al/ML
 
 🎯 Goal
 
@@ -54,7 +53,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,js,c,html,css,sql"/>
+<img src="https://skillicons.dev/icons?i=python,js,c,html,css"/>
 
 </p>
 
@@ -78,7 +77,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
 </p>
 
@@ -112,7 +111,7 @@
 | 🎓 Student Performance Predictor | Predict student performance using ML | Python, FastAPI, React |
 | 📩 SMS Spam Detection | NLP spam classifier | NLTK, TF-IDF, Logistic Regression |
 | 🏡 House Price Prediction | Predict housing prices | Scikit-Learn |
-| 📉 Customer Churn Prediction | Customer retention prediction | Machine Learning |
+
 
 ---
 
@@ -161,12 +160,8 @@
 # 🌱 Currently Learning
 
 - Machine Learning
-- Deep Learning
-- FastAPI
-- MLOps
-- Computer Vision
-
----
+-fastApi
+-django
 
 # 📚 Current Focus
 
@@ -182,8 +177,8 @@
 
 # 📫 Let's Connect
 
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
-- Email: your-email@example.com
+- https://www.linkedin.com/in/prakash-badaila-007b55351/
+- Email: badailap928@gmail.com
 
 ---
 
