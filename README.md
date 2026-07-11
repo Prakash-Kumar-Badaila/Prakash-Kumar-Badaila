@@ -1,97 +1,39 @@
-<div align="center">
+# Hi 👋, I'm Prakash Kumar Badaila
 
-# Hi , I'm Prakash Kumar Badaila
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Building+Practical+ML+Projects;Python+%7C+FastAPI+%7C+React;Always+Learning+Something+New" />
-
-### 💻 Computer Engineering Student • 🇳🇵 Nepal
-### 🤖 Aspiring AI Engineer
-
-<p>
-<a href="https://www.linkedin.com/in/prakash-badaila-007b55351/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:badailap928@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<p align="center">
+  <img src="./assets/prakash.png" width="170" alt="Prakash Kumar Badaila"/>
 </p>
 
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Computer+Engineering+Student;Machine+Learning+Enthusiast;Building+Practical+AI+Projects;Python+%7C+FastAPI+%7C+React;Learn.+Build.+Inspire." />
+</p>
+
+<h3 align="center">🤖 Machine Learning Enthusiast | Computer Engineering Student | Nepal 🇳🇵</h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/prakash-badaila-007b55351/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:badailap928@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
 # 🚀 About Me
 
-🎓 Computer Engineering student at **Thapathali Engineering Campus (IOE)**
-
-🤖 Passionate about
-
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Backend Development
-
-💡 I enjoy building real-world machine learning applications that solve practical problems.
-
-🌱 Currently learning
-
-- FastAPI
-- Scikit-Learn
--Al/ML
-
-🎯 Goal
-
-> Become an AI Engineer building intelligent systems that make a real-world impact.
+- 🎓 Computer Engineering Student at **Thapathali Engineering Campus (IOE), Nepal**
+- 🤖 Passionate about Artificial Intelligence, Machine Learning, Data Science and Backend Development.
+- 💡 Building practical end-to-end ML applications with **Python, FastAPI and React**.
+- 🌱 Currently learning **Deep Learning, FastAPI, Django and MLOps**.
+- 🎯 Goal: Become an AI Engineer building intelligent systems that solve real-world problems.
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,js,c,html,css"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,c,html,css,react,tailwind,fastapi,django,mysql,git,github,vscode" />
 </p>
 
-### Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,tailwind"/>
-
-</p>
-
-### Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=fastapi,django"/>
-
-</p>
-
-### Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
-</p>
-
----
-
-# 🤖 Machine Learning
+## 🧠 Machine Learning
 
 - NumPy
 - Pandas
@@ -99,60 +41,35 @@
 - Scikit-Learn
 - NLTK
 - TF-IDF
-- Logistic Regression
 - Linear Regression
+- Logistic Regression
 
 ---
 
-# ⭐ Featured Projects
+# 🚀 Featured Projects
 
-| Project | Description | Tech | Repo |
-|---------|-------------|------|---|
-| 🎓 Student Performance Predictor | Predict student performance using ML | Python, FastAPI, React | [Repository](comming soon) |
-| 🏡 House Price Prediction | Predict housing prices | Scikit-Learn | [Repository](https://github.com/Prakash-Kumar-Badaila/House_prediction_system) |
-| 📩 SMS Spam Detection | NLP Spam Classifier | NLTK, TF-IDF | [Repository](https://github.com/Prakash-Kumar-Badaila/Email_spam_detection) |
-
+| Project | Description | Tech | Code | Demo |
+|---------|-------------|------|------|------|
+| 🎓 Student Performance Predictor | Predict student performance using ML | Python, FastAPI, React | Coming Soon | Coming Soon |
+| 🏡 House Price Prediction | House price prediction using Linear Regression | Python, Scikit-Learn | [Repository](https://github.com/Prakash-Kumar-Badaila/House_prediction_system) | — |
+| 📩 SMS Spam Detection | NLP Spam Classifier | Python, NLTK, TF-IDF | [Repository](https://github.com/Prakash-Kumar-Badaila/Email_spam_detection) | — |
+| 📉 Customer Churn Prediction | Customer churn prediction | Python, ML | Coming Soon | Coming Soon |
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Prakash-Kumar-Badaila&show_icons=true&theme=tokyonight"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakash-Kumar-Badaila&layout=compact&theme=tokyonight"/>
-
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=Prakash-Kumar-Badaila&theme=tokyonight"/>
-
 </p>
 
----
-
-# 📊 Contribution Graph
-
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prakash-Kumar-Badaila&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Prakash-Kumar-Badaila&theme=tokyonight&row=1&column=6"/>
-
 </p>
 
 ---
@@ -160,40 +77,50 @@
 # 🌱 Currently Learning
 
 - Machine Learning
--fastApi
--django
+- Deep Learning
+- FastAPI
+- Django
+- MLOps
 
-# 📚 Current Focus
+# 🎯 2026 Goals
 
-✔ Building practical Machine Learning projects
-
-✔ Learning AI fundamentals
-
-✔ Strengthening backend development with FastAPI
-
-✔ Preparing for internships and AI Engineer roles
+- ✅ Build 10+ AI/ML Projects
+- 🔄 Participate in Hackathons
+- 🔄 Learn Deep Learning
+- 🔄 Contribute to Open Source
+- 🔄 Secure an AI Internship
 
 ---
 
-# 📫 Let's Connect
+# 📫 Connect
 
-- https://www.linkedin.com/in/prakash-badaila-007b55351/
+- LinkedIn: https://www.linkedin.com/in/prakash-badaila-007b55351/
 - Email: badailap928@gmail.com
 
 ---
 
-<div align="center">
+# 💭 Philosophy
 
-## 💭 Quote
-
-> **Learn. Build. Inspire.**
-
-</div>
+> **Turning ideas into intelligent solutions, one project at a time.**
 
 ---
 
-<div align="center">
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Prakash-Kumar-Badaila&style=for-the-badge&label=Profile%20Views"/>
+</p>
 
-![](https://komarev.com/ghpvc/?username=Prakash-Kumar-Badaila&style=for-the-badge)
+## 🐍 Contribution Snake
 
-</div>
+After enabling GitHub Actions, use:
+
+```md
+<p align="center">
+<img src="https://raw.githubusercontent.com/Prakash-Kumar-Badaila/Prakash-Kumar-Badaila/output/github-contribution-grid-snake-dark.svg" />
+</p>
+```
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! If you enjoy my projects, consider giving them a ⭐.
+</p>
