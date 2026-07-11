@@ -108,7 +108,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🎓 Student Performance Predictor | Predict student performance using ML | Python, FastAPI, React | [Repository]() |
+| 🎓 Student Performance Predictor | Predict student performance using ML | Python, FastAPI, React | [Repository](mmmmm) |
 | 🏡 House Price Prediction | Predict housing prices | Scikit-Learn | [Repository](https://github.com/Prakash-Kumar-Badaila/House_prediction_system) |
 | 📩 SMS Spam Detection | NLP Spam Classifier | NLTK, TF-IDF | [Repository](https://github.com/Prakash-Kumar-Badaila/Email_spam_detection) |
 
