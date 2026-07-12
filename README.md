@@ -49,7 +49,7 @@
 
 | Project | Description | Tech | Code | Demo |
 |---------|-------------|------|------|------|
-| 🎓 Student Performance Predictor | Predict student performance using ML | Python, FastAPI, React | Coming Soon | Coming Soon |
+| 🎓 Student Performance Predictor | Predict student performance using ML | Python, FastAPI, React | [Repository](https://github.com/Prakash-Kumar-Badaila/Student_Performance_Predictor) | C--- |
 | 🏡 House Price Prediction | House price prediction using Linear Regression | Python, Scikit-Learn | [Repository](https://github.com/Prakash-Kumar-Badaila/House_prediction_system) | — |
 | 📩 SMS Spam Detection | NLP Spam Classifier | Python, NLTK, TF-IDF | [Repository](https://github.com/Prakash-Kumar-Badaila/Email_spam_detection) | — |
 | 📉 Customer Churn Prediction | Customer churn prediction | Python, ML | Coming Soon | Coming Soon |
