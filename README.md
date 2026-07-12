@@ -1,7 +1,13 @@
-# Hi , I'm Prakash Kumar Badaila
+# Hi Dear 🖐️,
+<h1 align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=I+Am+Prakash+Kumar+Badaila;WELCOME+TO+MY+GITHUB"/>
+
+</h1>
 
 <p align="center">
-  <img src="./assets/prakash.png.png"  alt="Prakash Kumar Badaila" style="width:200px; border-radius:50%"/>
+  <!-- <img src="./assets/prakash.png.png"  alt="Prakash Kumar Badaila" style="width:200px; border-radius:50%"/> -->
+  <p align="center"> <img width="200px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanF5NDkyc29reWw4bG9teGYxdHBkMTI2dmNybWxmdmJ0aXB5eDhpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="600" alt="Coding Animation"/> </p>
 </p>
 
 <p align="center">
@@ -14,7 +20,8 @@
 <a href="https://www.linkedin.com/in/prakash-badaila-007b55351/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:badailap928@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
+<h3>Daily Motivation</h3>
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </p>
 ---
 
 # 🚀 About Me
@@ -76,7 +83,6 @@
 # 🌱 Currently Learning
 
 - Machine Learning
-- Deep Learning
 - FastAPI
 - Django
 - MLOps
@@ -98,11 +104,6 @@
 
 ---
 
-# 💭 Philosophy
-
-> **Turning ideas into intelligent solutions, one project at a time.**
-
----
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Prakash-Kumar-Badaila&style=for-the-badge&label=Profile%20Views"/>
