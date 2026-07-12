@@ -7,7 +7,7 @@
 
 <p align="center">
   <!-- <img src="./assets/prakash.png.png"  alt="Prakash Kumar Badaila" style="width:200px; border-radius:50%"/> -->
-  <p align="center"> <img width="200px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanF5NDkyc29reWw4bG9teGYxdHBkMTI2dmNybWxmdmJ0aXB5eDhpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="600" alt="Coding Animation"/> </p>
+  <p align="center"> <img width="400px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtobG9ycjc4cXJ4OHhobzI2bDZwMm10bXF4cWM0Nm9mcWRhOGF4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DX1cytoIQvnmgqBlQ3/giphy.gif" width="600" alt="Coding Animation"/> </p>
 </p>
 
 <p align="center">
