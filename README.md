@@ -22,7 +22,6 @@
 - 🎓 Computer Engineering Student at **Thapathali Engineering Campus (IOE), Nepal**
 - 🤖 Passionate about Artificial Intelligence, Machine Learning, Data Science and Backend Development.
 - 💡 Building practical end-to-end ML applications with **Python, FastAPI and React**.
-- 🌱 Currently learning **Deep Learning, FastAPI, Django and MLOps**.
 - 🎯 Goal: Become an AI Engineer building intelligent systems that solve real-world problems.
 
 ---
