@@ -1,7 +1,7 @@
 # Hi , I'm Prakash Kumar Badaila
 
 <p align="center">
-  <img src="./assets/prakash.png.png" width="170" alt="Prakash Kumar Badaila" border-radius="100px"/>
+  <img src="./assets/prakash.png.png"  alt="Prakash Kumar Badaila" style="width:150px; height:150px; border-radius:50%"/>
 </p>
 
 <p align="center">
