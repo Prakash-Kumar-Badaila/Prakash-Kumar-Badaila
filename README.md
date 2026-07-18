@@ -63,6 +63,14 @@
 
 ---
 
+# 🚀 Learning journey
+| Tech | Code |
+|---------|-----------|
+| Fast API | [Repository](https://github.com/Prakash-Kumar-Badaila/FastAPI_Learning_journey) |
+
+
+---
+
 # 📊 GitHub Statistics
 
 <p align="center">
