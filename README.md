@@ -36,7 +36,7 @@
 # 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,c,html,css,react,tailwind,fastapi,django,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,js,c,html,css,react,tailwind,fastapi,git,github,vscode" />
 </p>
 
 ## 🧠 Machine Learning
