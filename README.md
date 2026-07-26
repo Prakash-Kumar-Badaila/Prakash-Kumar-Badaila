@@ -68,8 +68,10 @@
 |---------|-----------|
 | Fast API | [Repository](https://github.com/Prakash-Kumar-Badaila/FastAPI_Learning_journey) |
 
-
----
+# Research Paper implementaion (Private )
+| paper name  | implementation |
+|---------|-----------|
+| backpropagation neural network from scratch, based on the Rumelhart, Hinton & Williams (1986) | [Repository](https://github.com/Prakash-Kumar-Badaila/Research-paper) |
 
 # 📊 GitHub Statistics
 
