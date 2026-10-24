@@ -42,14 +42,6 @@ Portfolio:https://porfolio-lemon-gamma.vercel.app/
 
 ## 🧠 Machine Learning
 
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-Learn
-- NLTK
-- TF-IDF
-- Linear Regression
-- Logistic Regression
 
 ---
 # 🚀 Deep Learning Project
@@ -106,22 +98,7 @@ Portfolio:https://porfolio-lemon-gamma.vercel.app/
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prakash-Kumar-Badaila&theme=tokyo-night"/>
 </p>
 
----
 
-# 🌱 Currently Learning
-
-- Machine Learning
-- FastAPI
-- Django
-- MLOps
-
-# 🎯 2026 Goals
-
-- ✅ Build 10+ AI/ML Projects
-- 🔄 Participate in Hackathons
-- 🔄 Learn Deep Learning
-- 🔄 Contribute to Open Source
-- 🔄 Secure an AI Internship
 
 ---
 
