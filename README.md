@@ -52,8 +52,14 @@ Portfolio:https://porfolio-lemon-gamma.vercel.app/
 - Logistic Regression
 
 ---
+# 🚀 Deep Learning Project
 
-# 🚀 Featured Projects
+| Project | Description | Tech | Code | Demo |
+|---------|-------------|------|------|------|
+| 🎓 coming soon | coming soon |  | | C--- |
+
+
+# 🚀 Machine learning Project
 
 | Project | Description | Tech | Code | Demo |
 |---------|-------------|------|------|------|
@@ -63,6 +69,17 @@ Portfolio:https://porfolio-lemon-gamma.vercel.app/
 | 📉 Customer Churn Prediction | Customer churn prediction | Python, ML | [Repository](https://github.com/Prakash-Kumar-Badaila/churn_prediction_system) | - |
 
 ---
+# NLP Project
+
+| Project | Description | Tech | Code | Demo |
+|---------|-------------|------|------|------|
+| 🎓 coming soon | coming soon |  | | C--- |
+
+# 🚀 Computer Vision Project
+
+| Project | Description | Tech | Code | Demo |
+|---------|-------------|------|------|------|
+| 🎓 coming soon | coming soon |  | | C--- |
 
 # Documenting my learning journey
 | Tech | Code |
