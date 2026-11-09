@@ -48,7 +48,7 @@ Portfolio:https://porfolio-lemon-gamma.vercel.app/
 
 | Project | Description | Tech | Code | Demo |
 |---------|-------------|------|------|------|
-| 🎓 coming soon | coming soon |  | | C--- |
+| handwritten_detection_begineer | Predict Using DeepLearning| Keras,tensoflow,fastapi,html,css,javascript | https://github.com/Prakash-Kumar-Badaila/handwritten_digit_prediction| C--- |
 
 
 # 🚀 Machine learning Project
