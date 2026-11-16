@@ -49,7 +49,7 @@ Portfolio:https://porfolio-lemon-gamma.vercel.app/
 | Project | Description | Tech | Code | Demo |
 |---------|-------------|------|------|------|
 | handwritten_detection_begineer | Predict Using DeepLearning| Keras,tensoflow,fastapi,html,css,javascript | https://github.com/Prakash-Kumar-Badaila/handwritten_digit_prediction| C--- |
-
+| CAT_DOG_CLASSIFIER | Predict Using DeepLearning,CNN| CNN,mKeras,tensoflow,fastapi,html,css,javascript |https://github.com/Prakash-Kumar-Badaila/cat_dog_clasifier/tree/main| C--- |
 
 # 🚀 Machine learning Project
 
